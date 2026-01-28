@@ -6,8 +6,8 @@ provider "azurerm" {
     }
   }
 
- subscription_id = "a2418553-1102-46df-a7af-cf62ce4940c1"  # your subscription ID
- tenant_id       = "b18659dc-6f28-4b5d-82c2-b81a3336b8c1"  # your tenant ID
+ subscription_id =
+ tenant_id       = 
 
 }
 
