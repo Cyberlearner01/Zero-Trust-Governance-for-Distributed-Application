@@ -4,7 +4,7 @@
 
 I built this lab to demonstrate how Zero Trust governance is applied in real Azure environments, not just how infrastructure is deployed.
 
-Many cloud projects stop at “I created two web apps.” In this lab, I focused on why access is granted, how it is controlled, and how privilege is reduced over time. The goal was to design an environment where identities, permissions, and secrets are governed intentionally and auditable from day one.
+I created two web apps. In this lab, I focused on why access is granted, how it is controlled, and how privilege is reduced over time. The goal was to design an environment where identities, permissions, and secrets are governed intentionally and auditable from day one.
 
 The environment consists of:
 
