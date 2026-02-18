@@ -2,6 +2,9 @@
 
 ## Project Overview
 
+<img width="5028" height="3275" alt="Zero-Trust-Governance-Architecture" src="https://github.com/user-attachments/assets/6e7e080d-0684-4beb-842f-1033760c1c4a" />
+
+
 I built this lab to demonstrate how Zero Trust governance is applied in real Azure environments, not just how infrastructure is deployed.
 
 I created two web apps. In this lab, I focused on why access is granted, how it is controlled, and how privilege is reduced over time. The goal was to design an environment where identities, permissions, and secrets are governed intentionally and auditable from day one.
